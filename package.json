@@ -1,0 +1,22 @@
+{
+  "name": "rowanoulton.com",
+  "version": "1.0.0",
+  "description": "Personal website of Rowan Oulton",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rowanoulton/rowanoulton.com.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Rowan Oulton <rowan.oulton@gmail.com> (http://github.com/rowanoulton)",
+  "license": "MIT",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/rowanoulton/rowanoulton.com/issues"
+  },
+  "homepage": "https://github.com/rowanoulton/rowanoulton.com#readme"
+}
